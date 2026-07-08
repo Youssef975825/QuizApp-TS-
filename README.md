@@ -29,17 +29,18 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. **Clone the repository:**
    ```bash
    git clone [(https://github.com/Youssef975825/QuizApp-TS-.git)]
+   ```
    
-   Navigate to the project folder:
+1) Navigate to the project folder:
 
   ```bash
 cd [PROJECT_NAME]
 ```
-Install dependencies:
+2) Install dependencies:
   ```bash
 npm install
 ```
-Run the application:
+3) Run the application:
   ```bash
 npm start
 ```
